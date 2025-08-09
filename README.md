@@ -243,7 +243,7 @@ Every airline cover same number of Route Coverage 23 except spicejet which cover
 -- Longest durations are seen in Delhi → Bangalore, Delhi → Chennai, and Kolkata → Mumbai, suggesting possible indirect routings or congested airspace.
 
 -- 5. Airline Coverage
--- Most airlines serve 23 unique city pairs, with the exception of SpiceJet, which serves only 20, indicating slightly less market penetration.
+-- Most airlines serve 23 unique city pairs, Except SpiceJet, which serves only 20, indicating slightly less market penetration.
 
 -- 💡 Business Recommendations
 
