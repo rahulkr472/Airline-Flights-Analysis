@@ -41,10 +41,15 @@ order by 1, 4 ;
 
 # Observation
 Air_India - cheapest route is Mumbai - Chennai and Delhi - hyderabad and expensive route is Delhi - bangalore and Mumbai - kolkata
+
 AirAsia - cheapest route is Mumbai - Chennai and Delhi - Chennai and Expensive route is Delhi - Bangalore and Mumbai - Kolkata
+
 Go_First - cheapest route is Delhi - Mumbai and Mumbai - Banglore and Expensive route is Delhi - bangalore and Mumbai - Kolkata
+
 Indigo - cheapest route is Mumbai - Chennai and Delhi - Chennai and Expensive Route is Mumbai - Kolkata and Delhi - bangalore
+
 spicejet - cheapest route is Delhi - Hyderabad and Mumbai - bangalore And Expensive Route is Mumbai - Kolkata
+
 Vistara - cheapest route is Delhi - hyderbad and delhi - Chennai and Expensive route is Delhi - Kolkata and Mumbai - Kolkata  
 
 # Insight
