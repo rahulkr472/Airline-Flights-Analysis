@@ -15,11 +15,18 @@ cargo operations.
  market penetration.
 
 # Business Recommendations-
-Promote Early Booking Campaigns: Highlight cost savings of 7K+ to attract price-sensitive
-customers.- Target Premium Routes: Use loyalty programs and exclusive offers for Bangalore–Mumbai,
-Delhi–Chennai, and Kolkata–Delhi travelers.- Optimize Scheduling: Allocate more operational resources during Morning, Evening, and Early
-Morning peaks; explore cargo/low-fare sales for night slots.- Leverage Non-stop Pricing: Market direct flights aggressively as both cheaper and faster on
-select routes.- Expand SpiceJet's Coverage: Closing the route gap could improve competitiveness.
+
+Promote Early Booking Campaigns: Highlight cost savings of 7K+ to attract price-sensitive customers.
+
+- Target Premium Routes: Use loyalty programs and exclusive offers for Bangalore–Mumbai, Delhi–Chennai, and Kolkata–Delhi travelers.
+- 
+- Optimize Scheduling: Allocate more operational resources during Morning, Evening, and Early
+Morning peaks; explore cargo/low-fare sales for night slots.
+
+- Leverage Non-stop Pricing: Market direct flights aggressively as both cheaper and faster on
+select routes.
+
+- Expand SpiceJet's Coverage: Closing the route gap could improve competitiveness.
 
 
 # SQL QUERY
